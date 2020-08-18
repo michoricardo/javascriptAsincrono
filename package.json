@@ -1,0 +1,28 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michoricardo/javascriptAsincrono.git"
+  },
+  "keywords": [
+    "promesas",
+    "callbacks",
+    "async"
+  ],
+  "author": "Ricardo Garcia Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michoricardo/javascriptAsincrono/issues"
+  },
+  "homepage": "https://github.com/michoricardo/javascriptAsincrono#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
